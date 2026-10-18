@@ -9,4 +9,5 @@
     udf
     usb_uvc_config_prop
     vendor_persist_nfc_prop
-    xtra_control_prop))
+    xtra_control_prop
+    xiaomi_kbd_backlight_prop))
